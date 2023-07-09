@@ -1,9 +1,0 @@
--- first time --
-
-git init
-git remote add origin https://github.com/mosymic/GNSS-Security-Software.git
-git add .
-
--- Next commits ---
-git commit -m "Changed repo"
-git push origin master
